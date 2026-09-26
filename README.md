@@ -2,7 +2,7 @@
 
 ### Electrical & Electronics Engineer | Power Systems & Control | Renewable Energy | Smart Grids
 
-I’m an **Electrical & Electronics Engineering graduate from Kathmandu University, Nepal**, with a strong interest in **power systems, power system dynamics, control systems, renewable energy integration, and smart grids**. Currently I am a Substation Engineer Trainee at a Consulting firm, working on protection systems and substation design, and a graduate researcher in power systems based in Nepal.
+I’m an **Electrical & Electronics Engineering graduate from Kathmandu University, Nepal**, with a strong interest in **power systems, power system dynamics, control systems, renewable energy integration, and smart grids**. Currently I am working as a Substation Engineer Trainee at a Consulting firm, working on protection systems and substation design, and a graduate researcher in power systems based in Nepal.
 
 My current interests are focused on understanding how modern power systems can remain **stable, reliable, and resilient** as the penetration of inverter-based renewable energy sources continues to grow.
 
@@ -12,15 +12,15 @@ I’m particularly interested in the intersection of **power-system engineering,
 
 ## 🔬 Research Interests
 
-* ⚡ Power System Stability & Dynamics
-* 🎛️ Control Systems & Frequency Control
-* 🌱 Renewable Energy Integration
-* 🔌 Inverter-Based Resources (IBRs)
-* 🌐 Smart Grids & Distributed Generation
-* 🔋 HVDC & VSC-HVDC Systems
-* 🛡️ Power System Resilience & Cyber-Physical Systems
-* 🤖 Machine Learning for Power Systems
-* 📊 Data-Driven Power System Analysis
+ Power System Stability & Dynamics
+ Control Systems & Frequency Control
+ Renewable Energy Integration
+ Inverter-Based Resources (IBRs)
+ Smart Grids & Distributed Generation
+ HVDC & VSC-HVDC Systems
+ Power System Resilience & Cyber-Physical Systems
+ Machine Learning for Power Systems
+ Data-Driven Power System Analysis
 
 ---
 
